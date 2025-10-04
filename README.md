@@ -26,7 +26,7 @@
 [Enlace directo a Aules](https://aules.edu.gva.es)
 
 ## Imágenes
-![Markdown](https://markdown.es/wp-content/uploads/2015/08/Guia-Markdown-en-espanol.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.invenglobal.com%2Flostark%2Favatar%2Fdetail%2F104%2F3266&psig=AOvVaw0XjCmM2X714wqmUBP-0NwP&ust=1759678624379000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOj0p_HvipADFQAAAAAdAAAAABAE)](https://portal.edu.gva.es/iesblascoibanyezcullera/wp-content/uploads/sites/912/2023/04/logo.jpg))
+![Markdown]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.invenglobal.com%2Flostark%2Favatar%2Fdetail%2F104%2F3266&psig=AOvVaw0XjCmM2X714wqmUBP-0NwP&ust=1759678624379000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOj0p_HvipADFQAAAAAdAAAAABAE)](https://portal.edu.gva.es/iesblascoibanyezcullera/wp-content/uploads/sites/912/2023/04/logo.jpg))
 
 ## Código
 
