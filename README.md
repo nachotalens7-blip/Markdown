@@ -32,7 +32,7 @@
 
 Para mostrar código en Markdown, usa tres comillas invertidas antes y después del bloque. Ejemplo:
 ```python
-print("Hola, mundo!")
+print("Xavi ya tinc wifi!")
 ```
 
 También puedes poner código en línea usando comillas invertidas: `print("Hola")`
