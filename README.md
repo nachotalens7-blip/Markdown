@@ -21,9 +21,9 @@
 ***Esto es negrita y cursiva***
 
 ## Enlaces
-[Aules](https://aules.edu.gva.es)
+[IES BLASCO IBÁÑEZ](https://aules.edu.gva.es)
 
-[Enlace directo a Aules](https://aules.edu.gva.es)
+[Enlace directo al institut](https://portal.edu.gva.es/iesblascoibanyezcullera)
 
 ## Imágenes
 ![Markdown](https://portal.edu.gva.es/iesblascoibanyezcullera/wp-content/uploads/sites/912/2023/04/logo.jpg)
